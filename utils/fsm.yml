@@ -1,0 +1,5 @@
+version: "1.0"
+mime:
+  name: rsa
+  enabled: true
+  config: jr
